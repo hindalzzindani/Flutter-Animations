@@ -83,7 +83,7 @@ class BottomRoseGridView extends StatelessWidget {
                           height: h / 4,
                           decoration: BoxDecoration(
                               color: unSelectedColor,
-                              borderRadius: BorderRadius.circular(60)),
+                              borderRadius: BorderRadius.circular(10)),
                         ),
                       ),
                     ),
@@ -224,7 +224,7 @@ class MiddleRosesPageView extends StatelessWidget {
                           height: h / 5.5,
                           decoration: BoxDecoration(
                               color: unSelectedColor,
-                              borderRadius: BorderRadius.circular(100)),
+                              borderRadius: BorderRadius.circular(40)),
                         ),
                       ),
                     ),
@@ -296,7 +296,7 @@ class MiddleRosesPageView extends StatelessWidget {
                       child: FadeInUp(
                         delay: const Duration(milliseconds: 1450),
                         child: CircleAvatar(
-                          backgroundColor: Colors.black,
+                          backgroundColor: Colors.purple,
                           child: IconButton(
                               onPressed: () {
                                 Get.find<WalletController>().add(
@@ -351,7 +351,7 @@ class TabBar extends StatelessWidget {
               width: w / 1.25,
               height: double.infinity,
               child: ListView.builder(
-                  itemCount: 4,
+                  itemCount: 5,
                   physics: const BouncingScrollPhysics(),
                   scrollDirection: Axis.horizontal,
                   itemBuilder: (ctx, index) {
@@ -376,7 +376,7 @@ class TabBar extends StatelessWidget {
                             tabNames[index],
                             style: GoogleFonts.oxygen(
                                 color: _controller.currentIndex.value == index
-                                    ? const Color.fromARGB(255, 58, 0, 77)
+                                    ? const Color.fromARGB(255, 234, 232, 232)
                                     : Colors.black,
                                 fontSize: 16),
                           )),
@@ -433,7 +433,7 @@ class TopTextWidget extends StatelessWidget {
           FadeInDown(
             delay: const Duration(milliseconds: 600),
             child: Text(
-              "  with a brief description",
+              "  with a brief description....",
               style: GoogleFonts.oxygen(
                 fontSize: 18,
                 color: Colors.grey,

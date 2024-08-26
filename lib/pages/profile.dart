@@ -58,7 +58,7 @@ class BottomSection extends StatelessWidget {
     'assets/images/pay.png',
     'assets/images/tr.png',
     'assets/images/stas.png',
-    'assets/images/settings.png',
+    'assets/images/set.png',
     'assets/images/log.png',
   ];
 
