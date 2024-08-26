@@ -1,0 +1,48 @@
+name: flower_app_animation_ui
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"  # تحديث إلى إصدار Dart المتوافق مع Flutter 3.24.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.1
+  line_icons: ^2.0.1
+  custom_navigation_bar: ^0.8.2
+  google_fonts: ^6.2.1
+  animate_do: ^2.1.0
+  lottie: ^1.2.2
+  flutter_spinkit: ^5.1.0
+  concentric_transition: ^1.0.1+1
+  get_storage: ^2.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
