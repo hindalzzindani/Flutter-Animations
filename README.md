@@ -13,7 +13,6 @@ This project is a starting point for a Flutter application.
     <img src="assets/1.wmv" alt="Video 3" width="100%"/>
   
  <br>
-<img src="1.png" alt="Screenshot 1" width="100%"/>
 
 Description
 
