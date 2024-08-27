@@ -5,14 +5,12 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-## videos 📸
+## Videos 📸
 
 <p align="center">
-  <video width="100%" controls>
-    <source src="assets/1.mp4" type="video/mp4">
-  
-  </video>
+  <a href="https://github.com/username/repository/raw/main/assets/1.mp4" download>Download Video</a>
 </p>
+
 
 
 Description
