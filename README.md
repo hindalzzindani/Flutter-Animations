@@ -10,7 +10,7 @@ This project is a starting point for a Flutter application.
 ## Screenshots 📸
 
 <p align="center">
-    <img src="assets/1.wmv" alt="Video 3" width="100%"/>
+    <img src="assets/images/1.wmv" alt="Video 3" width="100%"/>
   
  <br>
 
