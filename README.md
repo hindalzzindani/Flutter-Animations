@@ -12,7 +12,7 @@ This project is a starting point for a Flutter application.
 
 <p align="center">
   <a href="https://vimeo.com/1003238463" target="_blank">
-    <img src="assets/thumbnail.png" alt="Watch the Video" style="width:50%; height:444px; max-width:340px;" />
+    <img src="assets/thumbnail.png" alt="Watch the Video" style="width:50%; height:544px; max-width:340px;" />
   </a>
 </p>
 
