@@ -9,8 +9,8 @@ This project is a starting point for a Flutter application.
 
 <p align="center">
   <video width="100%" controls>
-    <source src="assets/videos/1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="assets/1.mp4" type="video/mp4">
+  
   </video>
 </p>
 
