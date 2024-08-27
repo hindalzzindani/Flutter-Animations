@@ -5,14 +5,18 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-## videos 📸
+
+
+
+## Videos 📸
 
 <p align="center">
-  <video width="100%" controls>
-    <source src="assets/1.mp4" type="video/mp4">
-  
-  </video>
+  <a href="https://vimeo.com/1003238463" target="_blank">
+    <img src="assets/thumbnail.png" alt="Watch the Video" width="640" />
+  </a>
 </p>
+
+
 
 
 Description
