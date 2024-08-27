@@ -5,14 +5,15 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-
-## Screenshots 📸
+## videos 📸
 
 <p align="center">
-    <img src="assets/images/1.wmv" alt="Video 3" width="100%"/>
-  
- <br>
+  <video width="100%" controls>
+    <source src="assets/videos/1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 Description
 
