@@ -11,7 +11,9 @@ This project is a starting point for a Flutter application.
 ## Videos 📸
 
 <p align="center">
-  <iframe src="https://player.vimeo.com/video/1003238463" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <a href="https://vimeo.com/1003238463" target="_blank">
+    <img src="assets/thumbnail.png" alt="Watch the Video" width="640" />
+  </a>
 </p>
 
 
