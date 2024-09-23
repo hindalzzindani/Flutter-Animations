@@ -11,10 +11,12 @@ This project is a starting point for a Flutter application.
 ## Videos 📸
 
 <p align="center">
-  <a href="https://vimeo.com/1003238463" target="_blank">
-    <img src="assets/thumbnail.png" alt="Watch the Video" style="width:50%; height:644px; max-width:240px;" />
-  </a>
+  <video width="320" height="644" controls>
+    <source src="assets/1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 
 
